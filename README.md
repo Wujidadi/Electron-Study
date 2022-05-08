@@ -5,6 +5,7 @@ Electron 學習專案。
 
 ## 要點
 
+* 使用 **pnpm** 管理套件
 * 使用 **electron-reloader** 在開發階段 hot reload 以便測試
 * 使用 **electron-forge** 打包執行檔
 
